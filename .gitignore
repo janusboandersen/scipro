@@ -17,4 +17,5 @@ Thumbs.db
 # Directories #
 ###############
 langtangen/
+.cache/
 __pycache__
